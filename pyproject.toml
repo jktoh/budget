@@ -11,6 +11,7 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.11"
 fastapi = {extras = ["standard"], version = "^0.115.0"}
+numpy = "^2.1.1"
 python-dateutil = "^2.9.0.post0"
 sqlmodel = "^0.0.22"
 

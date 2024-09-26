@@ -10,3 +10,4 @@ class Item(SQLModel, table=True):  # noqa: D101
     amount: float
     dt: date
     account: str
+    parent_id: int | None = Field(default=None)

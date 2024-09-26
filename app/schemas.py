@@ -9,5 +9,9 @@ class Item(BaseModel):  # noqa: D101
     amount: float
     dt: date
     account: str
+
+
+class Repeat(Item):  # noqa: D101
     repeat_every: str
     repetition_no: int | None = None
+    parent_id: int
