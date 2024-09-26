@@ -1,3 +1,0 @@
-name: redis-cloud-aws-ts
-runtime: nodejs
-description: A minimal TypeScript Pulumi program

@@ -1,3 +1,0 @@
-name: azure-ts-oidc-provider-pulumi
-runtime: nodejs
-description: An Azure Native TypeScript Pulumi program to setup OIDC

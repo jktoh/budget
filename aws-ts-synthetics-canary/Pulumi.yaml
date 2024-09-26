@@ -1,3 +1,0 @@
-name: aws-synthetics-canary
-runtime: nodejs
-description: Example to deploy an AWS synthetics canary.

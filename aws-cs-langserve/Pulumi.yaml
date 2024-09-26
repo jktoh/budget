@@ -1,3 +1,0 @@
-name: aws-csharp-langserve
-runtime: dotnet
-description: A minimal Langserve AWS C# Pulumi program

@@ -1,0 +1,2 @@
+pulumi-aws==6.52.0
+pulumi-docker==4.5.5

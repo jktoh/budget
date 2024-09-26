@@ -1,6 +1,0 @@
-name: aws-py-secrets-manager
-runtime:
-  name: python
-  options:
-    virtualenv: venv
-description: A minimal AWS Python Pulumi program

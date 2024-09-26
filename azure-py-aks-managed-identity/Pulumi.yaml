@@ -1,3 +1,0 @@
-name: azure-py-aks-managed-identity
-runtime: python
-description: A minimal Azure Native Pulumi Python program

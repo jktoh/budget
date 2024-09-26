@@ -1,6 +1,0 @@
-name: aws-hub-and-spoke-with-inspection-vpc-python
-description: A minimal Python Pulumi program
-runtime:
-    name: python
-    options:
-        virtualenv: venv

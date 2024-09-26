@@ -1,7 +1,0 @@
-name: aws-py-fargate
-description: A container running in AWS ECS Fargate, using Python infrastructure as code
-runtime:
-  name: python
-  options:
-    toolchain: poetry
-    typechecker: pyright
